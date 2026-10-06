@@ -8,7 +8,7 @@ def register():
         messagebox.showerror("Error", "Fill all fields")
 
 root = tk.Tk()
-root.title("Event Registration")
+root.title("College Event Registration Form")
 root.geometry("350x400")
 
 tk.Label(root, text="Event Registration",
