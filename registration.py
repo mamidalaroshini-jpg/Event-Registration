@@ -35,7 +35,7 @@ tk.OptionMenu(
     event,
     "Tech Workshop",
     "Sports Event",
-    "Music Event"
+    "Music festival"
 ).pack()
 
 tk.Button(
@@ -47,3 +47,4 @@ tk.Button(
 ).pack(pady=20)
 
 root.mainloop()
+
