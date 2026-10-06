@@ -36,6 +36,7 @@ tk.OptionMenu(
     "Tech Workshop",
     "Sports Event",
     "Music festival"
+    "Cultural Event"    
 ).pack()
 
 tk.Button(
